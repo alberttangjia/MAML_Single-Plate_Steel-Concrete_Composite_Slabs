@@ -3,4 +3,4 @@ The execution environment requires torch==2.8.0, xgboost==3.1.2, shap==0.48.0, s
 By placing datasets in the ../data directory and running the main script, the system automatically generates comprehensive reports in ../results.
 
 Due to GitHub's storage restrictions, the large-scale finite element validation files are hosted externally.
-Please [click here to download via Google Drive]([https://drive.google.com/drive/folders/18eGJMqk1HUsy521EnOQLn1ru3mPUXpT0?usp=sharing]), or contact the author via email.
+lease click here to download them via Google Drive[https://drive.google.com/drive/folders/18eGJMqk1HUsy521EnOQLn1ru3mPUXpT0?usp=sharing], or request access by emailing the author.
